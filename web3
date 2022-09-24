@@ -1,0 +1,11 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.7 ;
+import "./tech4dev";
+contract ada is Name {
+    
+
+function anna
+() public view returns(string memory)  {
+      return "This is the second contract";
+}
+}
